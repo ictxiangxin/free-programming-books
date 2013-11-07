@@ -26,7 +26,7 @@
 * [APL](#apl)
 * [Autotools](#autotools)
 * [ASP.NET MVC](#aspnet-mvc)
-* [Assembly Language](#assembly-language)
+* [Assembly语言](#assembly语言)
 * [Bash](#bash)
 * [C](#c)
 * [C++](#c-1)
@@ -342,84 +342,84 @@
 
 
 ###Autotools
-* [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
+* [GNU Autoconf, Automake and Libtool -- 《GNU的Autoconf，Automake和Libtool程序》](http://sourceware.org/autobook/)
 * [Autotools Mythbuster](https://www.flameeyes.eu/autotools-mythbuster/)
 
 
 ###ASP.NET MVC
-* [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com/)
-* [NerdDinner Walkthrough](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
+* [ASP.NET MVC Music Store -- 《ASP.NET MVC音乐商店》](http://mvcmusicstore.codeplex.com/)
+* [NerdDinner Walkthrough -- 《NerdDinner范例演练》](http://weblogs.asp.net/scottgu/archive/2009/03/10/free-asp-net-mvc-ebook-tutorial.aspx)
 
 
-###Assembly Language
-* [Paul Carter's Tutorial on x86 Assembly](http://drpaulcarter.com/pcasm/)
-* [Professional Assembly Language](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
-* [Programming from the Ground Up](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
-* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [The Art of Assembly Language Programming](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
-* [x86 Assembly](http://en.wikibooks.org/wiki/X86_Assembly)
-* [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
+###Assembly语言
+* [Paul Carter's Tutorial on x86 Assembly -- 《保罗·卡特的x86汇编教程》](http://drpaulcarter.com/pcasm/)
+* [Professional Assembly Language -- 《专业汇编语言》](http://blog.hit.edu.cn/jsx/upload/AT%EF%BC%86TAssemblyLanguage.pdf) (PDF)
+* [Programming from the Ground Up -- 《从零学编程》](http://download.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) (PDF)
+* [Software optimization resources by Agner Fog -- 《软件资源优化》](http://www.agner.org/optimize/)
+* [The Art of Assembly Language Programming -- 《汇编语言程序设计的艺术》](http://cs.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html)
+* [x86 Assembly -- 《x86汇编》](http://en.wikibooks.org/wiki/X86_Assembly)
+* [Ralf Brown's Interrupt List -- 《拉尔夫·布朗的中断列表》](http://www.ctyme.com/rbrown.htm)
 
 
 ###Bash
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/)
-* [Bash Guide for Beginners](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
-* [Lhunath's Bash Guide](http://mywiki.wooledge.org/BashGuide)
-* [The Command Line Crash Course](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
+* [Advanced Bash-Scripting Guide -- 《高级Bash脚本指南》](http://tldp.org/LDP/abs/html/)
+* [Bash Guide for Beginners --《Bash初学者指南》](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) by Machtelt Garrels
+* [Lhunath's Bash Guide -- 《Lhunath的Bash指南》](http://mywiki.wooledge.org/BashGuide)
+* [The Command Line Crash Course -- 《命令行速成班》](http://learncodethehardway.org/cli/book/) (also a Powershell reference)
 
 
 ###C
-* [A Tutorial on Pointers and Arrays in C](http://home.netcom.com/~tjensen/ptr/pointers.htm)
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/)
-* [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/)
-* [The C book](http://publications.gbdirect.co.uk/c_book/)
-* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
-* [Learn C the hard way](http://c.learncodethehardway.org/book/)
-* [The new C standard - an annotated reference](http://www.knosof.co.uk/cbook/cbook.html)
-* [Object Oriented Programming in C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
-* [C Programming - Wikibooks](http://en.wikibooks.org/wiki/Programming:C)
+* [A Tutorial on Pointers and Arrays in C -- 《C的指针和数组教程》](http://home.netcom.com/~tjensen/ptr/pointers.htm)
+* [Beej's Guide to C Programming -- 《Beej的C语言编程指南》](http://beej.us/guide/bgc/)
+* [Beej's Guide to Network Programming -- 《Beej的网络编程指南》](http://beej.us/guide/bgnet/)
+* [The C book -- 《c教程》](http://publications.gbdirect.co.uk/c_book/)
+* [Essential C -- 《C基础》](http://cslibrary.stanford.edu/101/EssentialC.pdf) (PDF)
+* [Learn C the hard way -- 《学习C艰难的方式》](http://c.learncodethehardway.org/book/)
+* [The new C standard - an annotated reference -- 《新的C标准 - 注明参考》](http://www.knosof.co.uk/cbook/cbook.html)
+* [Object Oriented Programming in C -- 《C的面向对象编程》](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [C Programming - Wikibooks -- 《C编程 - 维基》](http://en.wikibooks.org/wiki/Programming:C)
 
 
 ###C++
-* [C++ Annotations](http://cppannotations.sourceforge.net/)
-* [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)
-* [CS106X Programming Abstractions in C++](http://www.stanford.edu/class/cs106x/)
-* [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Software optimization resources by Agner Fog](http://www.agner.org/optimize/)
-* [Thinking in C++, Second Edition, Vol. 1.](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)] (http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
-* [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/q/388242/511601)
-* [C++ Succinctly, Syncfusion ](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
-* [Learn C++](http://www.learncpp.com/) (PDF, Online)
+* [C++ Annotations -- 《C++的注释》](http://cppannotations.sourceforge.net/)
+* [C++ GUI Programming With Qt 3 -- 《用Qt3进行C++的GUI编程》](http://www.computer-books.us/cpp_0010.php)
+* [CS106X Programming Abstractions in C++ -- 《用C++进行CS106X编程抽象》](http://www.stanford.edu/class/cs106x/)
+* [Matters Computational: Ideas, Algorithms, Source Code, by Jorg Arndt -- 《计算问题：思想，算法，源代码》](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
+* [Software optimization resources by Agner Fog -- 《软件资源优化》](http://www.agner.org/optimize/)
+* [Thinking in C++, Second Edition, Vol. 1. -- 《c++思想 第二版》](http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-one.zip) [(Vol. 2)] (http://www.mindviewinc.com/downloads/TICPP-2nd-ed-Vol-two.zip)
+* [How To Think Like a Computer Scientist: C++ Version -- 《如何看待计算机科学家，C++版本》](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
+* [The Definitive C++ Book Guide and List -- 《权威的C++书指南和列表》](http://stackoverflow.com/q/388242/511601)
+* [C++ Succinctly, Syncfusion -- 《简洁的C++》](http://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) *(Just fill the fields with any values)*
+* [Learn C++ -- 《学习C++》](http://www.learncpp.com/) (PDF, Online)
 
 
 ###Clojure
-* [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
-* [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
-* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
-* [Clojure for the Brave and True](http://www.braveclojure.com/)
-* [Clojure Programming](http://en.wikibooks.org/wiki/Clojure_Programming)
-* [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
-* [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
-* [Modern cljs](https://github.com/magomimmo/modern-cljs)
+* [A Brief Beginner’s Guide To Clojure -- 《Clojure的初学者指南》](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [Clojure - Functional Programming for the JVM -- 《Clojure，用于JVM的函数式编程》](http://java.ociweb.com/mark/clojure/article.html)
+* [Clojure Cookbook -- 《Clojure参考书》](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure for the Brave and True -- 《Clojure的勇敢和真实》](http://www.braveclojure.com/)
+* [Clojure Programming -- 《Clojure的编程》](http://en.wikibooks.org/wiki/Clojure_Programming)
+* [The Clojure Style Guide -- 《Clojure的风格指南》](https://github.com/bbatsov/clojure-style-guide)
+* [Data Sorcery with Clojure -- 《用Clojure进行数据巫术》](http://data-sorcery.org/contents/)
+* [Modern cljs -- 《现代cljs》](https://github.com/magomimmo/modern-cljs)
 
 
 ###CoffeeScript
-* [Smooth CoffeeScript](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
-* [The Little Book on CoffeeScript](http://arcturo.github.com/library/coffeescript/)
+* [Smooth CoffeeScript -- 《平滑的CoffeeScript》](http://autotelicum.github.com/Smooth-CoffeeScript/SmoothCoffeeScript.html)
+* [The Little Book on CoffeeScript -- 《CoffeeScript的小册子》](http://arcturo.github.com/library/coffeescript/)
 
 
 ###ColdFusion
-* [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
-* [Learn CF in a Week](http://learncfinaweek.com/)
+* [CFML In 100 Minutes -- 《100分钟入门CFML》](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown)
+* [Learn CF in a Week -- 《1星期内学会CF》](http://learncfinaweek.com/)
 
 
 ###D
-* [Programming in D](http://ddili.org/ders/d.en/)
+* [Programming in D -- 《D语言编程》](http://ddili.org/ders/d.en/)
 
 
 ###Dart
-* [What is Dart?](http://shop.oreilly.com/product/0636920025887.do)
+* [What is Dart? -- 《什么是Dart》](http://shop.oreilly.com/product/0636920025887.do)
 
 
 ###DTrace
@@ -427,31 +427,31 @@
 
 
 ###DB2
-* [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
-* [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
-* [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
+* [Getting started with DB2 Express-C -- 《DB2 Express-C的入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
+* [Getting started with IBM Data Studio for DB2 -- 《IBM Data Studio的DB2入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
+* [Getting started with IBM DB2 development -- 《IBM DB2开发入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
 
 
 ###Delphi / Pascal
-* [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/)
+* [Essential Pascal Version 1 and 2 -- 《Pascal基础，版本1和2》](http://www.marcocantu.com/epascal/)
 
 
 ###Elasticsearch
-* [Exploring Elasticsearch](http://exploringelasticsearch.com/)
+* [Exploring Elasticsearch -- 《探索Elasticsearch》](http://exploringelasticsearch.com/)
 
 
 ###Emacs
-* [GNU Emacs Manual, 17th Edition, v. 24.2](http://shop.fsf.org/product/Emacs_Manual_24/)
-* [An Introduction to Programming in Emacs Lisp, 3rd Edition](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
+* [GNU Emacs Manual, 17th Edition, v. 24.2 -- 《GNU Emacs手册，17版，V24.2》](http://shop.fsf.org/product/Emacs_Manual_24/)
+* [An Introduction to Programming in Emacs Lisp, 3rd Edition -- 《Emacs Lisp编程，第三版》](https://www.gnu.org/software/emacs/manual/html_node/eintr/index.html)
 
 
 ###Erlang
-* [Learn You Some Erlang For Great Good](http://learnyousomeerlang.com/)
+* [Learn You Some Erlang For Great Good -- 《教你用Erlong做一些伟大的东西》](http://learnyousomeerlang.com/)
 
 
 ###Flex
-* [Getting started with Adobe Flex](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
-* [Adobe Flex 2, Programming Actionscript 3.0](http://download.macromedia.com/pub/documentation/en/flex/2/prog_actionscript30.pdf) (PDF)
+* [Getting started with Adobe Flex -- 《Adobe Flex入门》](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_Adobe_Flex_p2.pdf) (PDF)
+* [Adobe Flex 2, Programming Actionscript 3.0 -- 《Adobe的Flex，ActionScript 3.0编程》](http://download.macromedia.com/pub/documentation/en/flex/2/prog_actionscript30.pdf) (PDF)
 
 
 ###F Sharp
